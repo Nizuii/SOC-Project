@@ -26,3 +26,6 @@ Here I have created 4 EC2 instances:
 1. **soc-n8n** - is the instance running n8n server.
 
 Basically these four instances serves 4 purposes, one is working as a SIEM tool, one is working an endpoint like a linux desktop or server, one is working as a ticket raising platform, one is working as a SOAR platform to automate responses.
+
+## Linux Endpoint
+`soc-linux-endpoint` 
