@@ -22,3 +22,7 @@ Since the project requires more system specs i decided to do it in AWS by creati
 Here I have created 4 EC2 instances:
 1. **wazuh-server** - is the instances where we are running wazuh SIEM.
 1. **soc-linux-endpoint** - is the instance which is coinsidered as an linux endpoint with wazuh agent and suricata IDS installed.
+1. **soc-thehive** - is the instance which is running theHive platform.
+1. **soc-n8n** - is the instance running n8n server.
+
+Basically these four instances serves 4 purposes, one is working as a SIEM tool, one is working an endpoint like a linux desktop or server, one is working as a ticket raising platform, one is working as a SOAR platform to automate responses.
