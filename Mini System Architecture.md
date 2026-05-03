@@ -8,3 +8,5 @@
 ---
 
 ## 1. Project Summary.
+
+<img src="images/diagram.png">
