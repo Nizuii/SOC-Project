@@ -16,3 +16,9 @@ This is a real world mini SOC workflow. The main goal is to detect external thre
 ## Step-1 Setting up the AWS instance.
 
 Since the project requires more system specs i decided to do it in AWS by creating EC2 instances. Since AWS provide free trial to new users with $120 credits it is quite easy to set up.
+
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/29db0f85-2425-44c4-934e-fa254fdaaaea" />
+
+Here I have created 4 EC2 instances:
+1. **wazuh-server** - is the instances where we are running wazuh SIEM.
+1. **soc-linux-endpoint** - is the instance which is coinsidered as an linux endpoint with wazuh agent and suricata IDS installed.
