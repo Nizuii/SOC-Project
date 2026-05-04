@@ -42,4 +42,8 @@ So this so called `soc-n8n` is the instance where we hosted n8n server. So every
 
 <img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/4ae7412c-543f-42b1-bfb0-02464fec7a05" />
 
- 
+ ## The Hive
+``
+
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/26707fdd-dcb5-4be7-bd1f-956f5a73fd6b" />
+
