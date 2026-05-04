@@ -28,5 +28,5 @@ Here I have created 4 EC2 instances:
 Basically these four instances serves 4 purposes, one is working as a SIEM tool, one is working an endpoint like a linux desktop or server, one is working as a ticket raising platform, one is working as a SOAR platform to automate responses.
 
 ## Linux Endpoint
-As I mentioned already `soc-linux-endpoint` is the endpoint which we
+As I mentioned already `soc-linux-endpoint` is the endpoint which will be monitoring for threats and FIM (file integrity monitoring), we already installed and configured the wazuh agent and suricata and wazuh is sending logs to the wazuh server along with suricata alerts.
  
